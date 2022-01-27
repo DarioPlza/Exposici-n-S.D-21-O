@@ -1,4 +1,4 @@
-# Exposici-n-S.D-21-O
+# Exposición S.D 21-O
 
 
 ### Algoritmo del servidor central
